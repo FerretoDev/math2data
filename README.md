@@ -48,7 +48,7 @@ Somos un equipo de estudiantes de Modelación apasionados por la inteligencia ar
 Somos tres estudiantes de Modelación con la determinación de convertirnos en expertos en Deep Learning:
 
 - **[Nombre del integrante 1]** - [Área de especialización/interés]
-- **[Nombre del integrante 2]** - [Área de especialización/interés]
+- **[Luis Enrique Reyes Garcia]** - [Series Temporales y Predicción]
 - **[Nombre del integrante 3]** - [Área de especialización/interés]
 
 ## 🔧 Tecnologías y Herramientas
